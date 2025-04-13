@@ -1,5 +1,3 @@
-### 📄 `README.md`
-
 # IsEven Web App
 
 A simple and responsive web application that checks whether a number is even or not using the [isevenapi.xyz](https://api.isevenapi.xyz/) API.
